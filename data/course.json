@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2003",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -50,6 +51,6 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "118a077e-8743-4b1c-9ffc-75502419fe74",
+  "site_uid": "2055ae36-c281-478c-ad0c-b35dc8f12059",
   "title": "Course Metadata"
 }
