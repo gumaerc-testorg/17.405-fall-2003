@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Writing assignment on politics and conflict in the Middle East. '
-file: /courses/17-405-seminar-on-politics-and-conflict-in-the-middle-east-fall-2003/e7f8f6723db0a0824e28c02840c35d66_paper1topics03.pdf
+file: /ol-ocw-studio-app/courses/17-405-seminar-on-politics-and-conflict-in-the-middle-east-fall-2003/e7f8f6723db0a0824e28c02840c35d66_paper1topics03.pdf
+file_size: 30946
 file_type: application/pdf
 learning_resource_types:
 - Assignments
